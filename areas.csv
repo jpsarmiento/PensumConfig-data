@@ -1,0 +1,20 @@
+﻿nombre;prioridad;creditos;tipo
+Matemáticas y ciencias básicas;Alta;26;Conocimiento
+Fundamentación en ingeniería de sistemas;Muy alta;24;Conocimiento
+Fundamentos generales de ingeniería;Alta;9;Conocimiento
+TICs en contextos específicos;Muy alta;9;Conocimiento
+Construcción de soluciones de TI;Muy alta;6;Conocimiento
+Gerencia de proyectos de TI;Muy alta;3;Conocimiento
+1er semestre ISIS;Alta;18;Semestre
+2do semestre ISIS;Alta;15;Semestre
+3er semestre ISIS;Alta;16;Semestre
+4to semestre ISIS;Alta;18;Semestre
+5to semestre ISIS;Alta;18;Semestre
+6to semestre ISIS;Alta;17;Semestre
+7mo semestre ISIS;Alta;17;Semestre
+8vo semestre ISIS;Alta;15;Semestre
+Desarrollo de Infraestructura y Seguridad;Muy alta;6;Conocimiento
+Manejo de Información;Muy alta;6;Conocimiento
+Electivas profesionales;Media;9;Conocimiento
+Proyectos;Alta;9;Conocimiento
+Formación Integral;Media;30;Conocimiento
